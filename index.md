@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-date: "today, not yesterday"
+date: 2022-11-16
 ---
 
